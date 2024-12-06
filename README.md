@@ -10,4 +10,4 @@ A curated collection of open-source utilities and interesting projects we've dev
 
 - 0 dependency react color picker
 - TailwindCSS
-- [/src/app/components/color-picker.tsx](Link)
+- [Link](/src/app/components/color-picker.tsx)
